@@ -1,0 +1,126 @@
+# Vigneshwar Kandhaiya - Professional Summary for Recruiter Chatbot
+
+## Personal Information
+- **Name**: Vigneshwar Kandhaiya
+- **Location**: Chennai, Tamil Nadu, India
+- **Contact**: +918903658936
+- **Email**: vigneshwar.k2@gmail.com
+- **LinkedIn**: Available on request
+
+## Professional Overview
+**Current Role**: Lead Customer Reliability Engineer at Informatica Business Solutions, Chennai
+**Experience**: 10+ years in IT and cloud computing infrastructure, automation, and database management
+**Career Focus**: Strategically transitioning into MLOps and AI-driven solutions
+
+## Key Achievements & Metrics
+- 80% reduction in incident handling time through automation
+- 20% reduction in operational overhead costs through AWS optimization
+- 30% improvement in database query response times
+- 50% reduction in manual intervention through automation
+- 99.95% system uptime maintenance
+- 40% reduction in security attack surface through IAM optimization
+
+## Core Technical Expertise
+
+### Cloud Technologies
+- **AWS Services**: EC2, S3, Lambda, RDS, VPC, DynamoDB, EKS
+- **Infrastructure as Code**: Terraform
+- **Multi-cloud**: Aviatrix Multicloud for hybrid cloud solutions
+- **Database Management**: Oracle RDS, Multi-AZ deployments
+
+### MLOps & AI/ML
+- **Model Deployment**: Amazon SageMaker
+- **Experiment Tracking**: MLflow
+- **Data Versioning**: DVC
+- **GenAI Technologies**: LangChain, LangGraph, RAG pipelines
+- **ML Frameworks**: TensorFlow, Scikit-Learn
+- **Traditional ML**: Logistic Regression, Random Forest, Gradient Boosting, AdaBoost
+- **Deep Learning**: LSTM networks, Neural Networks, Transformer models
+
+### DevOps & Automation
+- **CI/CD**: GitHub Actions, Jenkins
+- **Containerization**: Docker, Kubernetes, AWS EKS
+- **Configuration Management**: Ansible
+- **Programming**: Python, SQL, Shell Scripting
+- **Data Processing**: Apache Airflow, pandas, NumPy
+- **Monitoring**: CloudWatch, CloudTrail, Prometheus, Grafana, Panopta, Opsgenie
+
+## Work Experience Summary
+
+### Lead Customer Reliability Engineer - Informatica Business Solutions (Mar 2020 - Present)
+- Infrastructure provisioning and cost optimization
+- Security architecture design and implementation
+- Database administration with high availability
+- Automation and process improvement
+- ML model deployment and monitoring
+- Cross-functional collaboration and leadership
+
+### Previous Roles
+- **Tech Lead Database Administrator** - Cognizant Technologies Solutions (Jul 2019 - Mar 2020)
+- **Database Administrator** - Fidelity Investments (Dec 2016 - Jul 2019)
+- **Database Administrator** - Tata Consultancy Services (May 2015 - Dec 2016)
+
+## Education & Certifications
+- **B.Tech in Electrical and Electronics Engineering** - SASTRA University, Thanjavur (2011-2015)
+- **Masters in Data Science and Machine Learning** - Learnbay
+- **LLM Engineering: Master AI Agents, Large Language Model** - Udemy
+
+## Key Projects
+
+### CRE BOT - Runbook Assistant (Current)
+- AI-powered runbook assistant for operational documentation
+- Natural language query processing for incident resolution
+- LangGraph-based data ingestion and processing
+- Semantic embeddings with vector databases
+- Reciprocal Rank Fusion (RRF) algorithms for enhanced retrieval
+
+### Infrastructure Cost Optimization using LLMs
+- Automated CloudWatch metrics analysis
+- LLM-powered cost optimization recommendations
+- Jenkins workflow integration
+- Customer-specific infrastructure analytics
+
+### Automated Ticket Tagging System using LSTM
+- LSTM-based ticket classification for Salesforce
+- Production deployment with Prometheus monitoring
+- Integration with Support Logic for leadership reporting
+- Significant reduction in manual categorization efforts
+
+### Machine Learning Model for Phishing Detection
+- ETL pipeline with Airflow and MongoDB
+- Multiple model training and hyperparameter tuning
+- MLflow experiment tracking and GitHub Actions deployment
+- Real-time phishing detection capabilities
+
+## Career Objectives
+- Seeking opportunities in MLOps, Cloud Architecture, and AI/ML Engineering
+- Interested in roles that leverage infrastructure expertise with emerging AI technologies
+- Open to positions that involve strategic technology leadership and innovation
+
+## Availability & Preferences
+- **Notice Period**: Standard notice period (typically 30-60 days)
+- **Preferred Locations**: Chennai (current), open to remote opportunities
+- **Work Authorization**: Indian citizen, authorized to work in India
+- **Relocation**: Open to discussion for the right opportunity
+
+## Salary Expectations
+- Looking for growth opportunities commensurate with experience and skills
+- Open to discussing total compensation packages including base, variable, and equity
+- Interested in roles with competitive benefits and professional development opportunities
+
+## Key Differentiators
+- Unique blend of traditional infrastructure expertise and cutting-edge AI/ML capabilities
+- Proven track record of delivering measurable business impact
+- Strong foundation in both technical implementation and strategic planning
+- Experience in enterprise-scale deployments and cross-functional leadership
+- Demonstrated ability to bridge traditional IT operations with modern AI/ML practices
+
+## Interview Readiness
+- Available for technical discussions on cloud architecture, MLOps, and AI implementations
+- Can provide detailed explanations of project outcomes and technical decisions
+- Prepared to discuss career transition strategy and future technology trends
+- Ready to demonstrate problem-solving approach and leadership capabilities
+
+---
+
+*This summary provides comprehensive information about Vigneshwar Kandhaiya for recruiter interactions. For specific technical deep-dives or detailed project discussions, direct conversation is recommended.*
